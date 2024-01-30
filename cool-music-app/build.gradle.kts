@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "com.erdos"
-version = "0.0.1-SNAPSHOT"
+version = "v1"
 
 java {
     sourceCompatibility = JavaVersion.VERSION_17
